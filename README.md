@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Task Manager Project (MERN & Docker)**
-- 🌱 I’m currently learning **React, Node.js, AWS**
+- 🔭 I’m currently working on **Car Rental Management System**
+- 🌱 I’m currently learning **AWS, Php, Python**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m looking for help with **Backend Deployment and Cloud Integration**
 - 💬 Ask me about **Java, C#, or Full-Stack Development**
@@ -20,25 +20,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,javascript,react,nodejs,express,mysql,git,github,vscode,aws,docker,c++,oracle," />
 </p>
-
----
-
-### 📊 GitHub Stats
-![Ishaan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan-ishaanshow_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-ishaan&layout=compact&theme=github_dark)
-
-
-<!--
-**ishaan-ishaan/ishaan-ishaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
