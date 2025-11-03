@@ -18,5 +18,10 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,javascript,react,nodejs,express,mysql,git,github,vscode,aws,docker,c++,oracle," />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,javascript,react,nodejs,express,mysql,git,github,vscode,aws,docker,cpp,oracle,php,oracle" />
 </p>
+
+### 📊 GitHub Stats
+![Ishaan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan-ishaan&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-ishaan&layout=compact&theme=github_dark)
+
