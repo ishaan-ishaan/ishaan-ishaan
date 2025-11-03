@@ -1,5 +1,5 @@
 # Hi there 👋
-<h1 align="center">Hi 👋, I'm Ishaan Tanda</h1>
+<h1 align="center">Hi 👋, I'm Ishaan</h1>
 <h3 align="center">An aspiring software developer passionate about building efficient and creative solutions</h3>
 
 ---
@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,javascript,react,nodejs,express,mysql,git,github,vscode,aws,docker,c++" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css,javascript,react,nodejs,express,mysql,git,github,vscode,aws,docker,c++,oracle," />
 </p>
 
 ---
