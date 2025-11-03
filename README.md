@@ -13,6 +13,8 @@
 - ⚡ Fun fact: I love solving real-world problems through code!
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ishaan1229&color=blue)
+![Followers](https://img.shields.io/github/followers/ishaan1229?label=Followers&style=social)
 
 ### 🛠️ Languages and Tools
 <p align="left">
