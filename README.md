@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m looking for help with **Backend Deployment and Cloud Integration**
 - 💬 Ask me about **Java, C#, or Full-Stack Development**
-- 📫 How to reach me: **[your email here]**
+- 📫 How to reach me: **ishaan111200@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems through code!
 
 ---
